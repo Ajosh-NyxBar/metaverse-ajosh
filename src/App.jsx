@@ -5,6 +5,7 @@ import Quotes from './components/Quotes/Quotes'
 import Banner from './components/Banner/Banner'
 import Banner2 from './components/Banner/Banner2'
 import Features from './components/Features/Features'
+import Downloaders from './components/Download/Downloaders'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Banner />
       <Banner2 />   
       <Features />
+      <Downloaders />
     </div>
   )
 }

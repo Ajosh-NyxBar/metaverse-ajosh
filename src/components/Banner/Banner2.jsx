@@ -9,7 +9,7 @@ const Banner2 = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 place-items-center">
           {/* TEXT */}
           <div className="space-y-5 lg:pr-20 relative">
-            <div className="relative z-10">
+            <div className="relative z-10 space-y-5">
               <h1 className="text-4xl font-semibold">
                 GET READY TO ENJOY{" "}
                 <span
