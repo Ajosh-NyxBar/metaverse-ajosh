@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero'
 import Quotes from './components/Quotes/Quotes'
 import Banner from './components/Banner/Banner'
 import Banner2 from './components/Banner/Banner2'
+import Features from './components/Features/Features'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Quotes />
       <Banner />
       <Banner2 />   
+      <Features />
     </div>
   )
 }
