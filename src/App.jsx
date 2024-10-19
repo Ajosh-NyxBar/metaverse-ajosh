@@ -6,6 +6,7 @@ import Banner from './components/Banner/Banner'
 import Banner2 from './components/Banner/Banner2'
 import Features from './components/Features/Features'
 import Downloaders from './components/Download/Downloaders'
+import Kaki from './components/Footer/Kaki'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Banner2 />   
       <Features />
       <Downloaders />
+      <Kaki />
     </div>
   )
 }
